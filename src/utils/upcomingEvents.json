@@ -15,30 +15,30 @@
   },
   {
     "id": 3,
-    "name": "A",
+    "name": "React Workshop Aug '25",
     "date": "29-08-2025",
     "location": "Lab 221, VCET",
-    "image": "https://www.cnet.com/a/img/resize/9a13e1e92a7b66cbff9db2934b3f66bf01a4afb6/hub/2023/08/24/821b0d86-e29b-4028-ac71-ef63ca020de8/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200"
+    "image": "https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx-1024x512.jpg"
   },
   {
     "id": 4,
-    "name": "B",
+    "name": "Team Meet Aug '25",
     "date": "30-08-2025",
     "location": "Lab 221, VCET",
-    "image": "https://www.cnet.com/a/img/resize/9a13e1e92a7b66cbff9db2934b3f66bf01a4afb6/hub/2023/08/24/821b0d86-e29b-4028-ac71-ef63ca020de8/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200"
+    "image": "https://www.isixsigma.com/wp-content/uploads/2018/11/shutterstock_1687550977-scaled.jpg"
   },
   {
     "id": 5,
-    "name": "C",
+    "name": "Android Dev Workshop",
     "date": "31-08-2025",
     "location": "Lab 221, VCET",
-    "image": "https://www.cnet.com/a/img/resize/9a13e1e92a7b66cbff9db2934b3f66bf01a4afb6/hub/2023/08/24/821b0d86-e29b-4028-ac71-ef63ca020de8/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200"
+    "image": "https://cdn.sketch.com/assets/blog/android-app-best-practices.png"
   },
   {
     "id": 6,
-    "name": "D",
+    "name": "Alumni Meet",
     "date": "03-09-2025",
     "location": "Lab 221, VCET",
-    "image": "https://www.cnet.com/a/img/resize/9a13e1e92a7b66cbff9db2934b3f66bf01a4afb6/hub/2023/08/24/821b0d86-e29b-4028-ac71-ef63ca020de8/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200"
+    "image": "https://i0.wp.com/gitjaipur.com/wp-content/uploads/2023/04/ALUMNI-scaled.jpg?fit=2560%2C960&ssl=1"
   }
 ]

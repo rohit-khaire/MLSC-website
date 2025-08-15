@@ -11,6 +11,8 @@
     text-align: center;
     font-size: 2rem; 
     margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
     margin-bottom: 1rem;
     font-weight: 600;
 }
@@ -65,5 +67,24 @@
 .card p, 
 .card h3, 
 .card span {
-  color: #0178d4;
+  color: #6993b4;
+}
+
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.upcomingSection {
+  margin-top: 6rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  position: relative;
+  animation: slideDown 1s ease forwards;
 }
