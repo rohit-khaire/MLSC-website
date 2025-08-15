@@ -24,7 +24,7 @@ const Footer = () => {
                             <div className={`flex_center | ${styles.social_media}`}>
                                 <ul className={`${styles.social_media_content}`}>
                                     <li className={styles.flex_li}><a href='https://www.youtube.com/@MLSCVCET'><h3><span><FontAwesomeIcon icon={faYoutube} /></span>Youtube</h3></a></li>
-                                    <li className={styles.flex_li}><a href='https://www.linkedin.com/company/mlsc-vcet/'><h3><span><FontAwesomeIcon icon={faGLinkedin} /></span>Linkedin</h3></a></li>
+                                    <li className={styles.flex_li}><a href='https://www.linkedin.com/company/mlsc-vcet/'><h3><span><FontAwesomeIcon icon={faLinkedin} /></span>Linkedin</h3></a></li>
                                 </ul>
                             </div>
                         </div>
