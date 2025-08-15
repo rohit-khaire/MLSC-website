@@ -1,6 +1,7 @@
 import mlscLogo from '../assets/mlsclogo.png'
 import styles from './Footer.module.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub, faInstagram, faYoutube, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 const Footer = () => {
     return (
@@ -14,16 +15,16 @@ const Footer = () => {
                         <div className={styles.footer_social}>
                             <div className={`flex_center | ${styles.social_media}`}>
                                 <ul className={styles.social_media_content}>
-                                    <li className={styles.flex_li}><a href='https://github.com/Microsoft-Learn-Students-Club'><h3><span><FontAwesomeIcon icon="fa-solid fa-square-full" /></span>Github</h3></a></li>
-                                    <li className={styles.flex_li}><a href='https://www.instagram.com/mlsc_vcet/'><h3><span><FontAwesomeIcon icon="fa-solid fa-square-full" /></span>Instagram</h3></a></li>
+                                    <li className={styles.flex_li}><a href='https://github.com/Microsoft-Learn-Students-Club'><h3><span><FontAwesomeIcon icon={faGithub} /></span>Github</h3></a></li>
+                                    <li className={styles.flex_li}><a href='https://www.instagram.com/mlsc_vcet/'><h3><span><FontAwesomeIcon icon={faInstagram} /></span>Instagram</h3></a></li>
                                 </ul>
                             </div>
                         </div>
                         <div className={styles.footer_social}>
                             <div className={`flex_center | ${styles.social_media}`}>
                                 <ul className={`${styles.social_media_content}`}>
-                                    <li className={styles.flex_li}><a href='https://www.youtube.com/@MLSCVCET'><h3><span><FontAwesomeIcon icon="fa-solid fa-square-full" /></span>Youtube</h3></a></li>
-                                    <li className={styles.flex_li}><a href='https://www.linkedin.com/company/mlsc-vcet/'><h3><span><FontAwesomeIcon icon="fa-solid fa-square-full" /></span>Linkedin</h3></a></li>
+                                    <li className={styles.flex_li}><a href='https://www.youtube.com/@MLSCVCET'><h3><span><FontAwesomeIcon icon={faYoutube} /></span>Youtube</h3></a></li>
+                                    <li className={styles.flex_li}><a href='https://www.linkedin.com/company/mlsc-vcet/'><h3><span><FontAwesomeIcon icon={faGLinkedin} /></span>Linkedin</h3></a></li>
                                 </ul>
                             </div>
                         </div>
