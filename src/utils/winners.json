@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ROHIT KHAIRE",
+    "team": "",
+    "event": "PAPER-A-THON"
+  },
+  {
+    "id": 2,
+    "name": "",
+    "team": "LOGIC LAB",
+    "event": "COHERENCE '25 - WEB APP"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "team": "1HP CLUTCH",
+    "event": "COHERENCE '25 - AI/ML"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "team": "SMART CONTRACTEES",
+    "event": "COHERENCE '25 - BLOCKCHAIN"
+  }
+]

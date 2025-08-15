@@ -6,6 +6,7 @@ import About from './About'
 // import Gallery from '../layouts/Gallery'
 import CounterUp from '../components/CounterUp'
 // import { SliderData } from '../utils/data'
+import Winners from "../components/Winners";
 
 const Home = () => {
 
@@ -35,6 +36,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <Winners />
       <About />
       {/* <Gallery  slides={SliderData}/> */}
       <CounterUp />
