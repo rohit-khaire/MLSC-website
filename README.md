@@ -1,120 +1,67 @@
-# Offical Documentation for MLSC VCET Website
+# 🚀 MLSC Website - Improvements and Enhancements ✨
+This repo is a fork of https://github.com/Microsoft-Learn-Students-Club/MLSC-website
 
-## Overview
+I contributed a set of improvements and feature additions to enhance the user experience, content accessibility, and engagement across the website.
 
-Welcome to the official documentation for the MLSC VCET Website, the dynamic and immersive website created by the Web Team! where you can Immerse yourself in seminars, hackathons, and interactive workshops where we showcase our projects, engage in vibrant discussions, and unleash our tech potential.
+## 🛠 Changes & Improvements Made
+## 🏆 Winners of Recent Events section on Homepage
+- Added a “Winners of Recent Events” section to highlight achievers and their accomplishments.
 
-## 📦 Technologies Used
+- Designed the layout to be visually appealing and engaging.
 
-- `Vite`
-- `React.js`
-- `Three.js`
-- `GSAP`
-- `Firebase`
-- `Netlify`
+- Can use to declare Winners of Events.
 
-## Running the MLSC VCET Website Locally
+- Purpose: Motivates students by showcasing real success stories.
 
-To run the MLSC VCET Website locally, follow the guidelines below. Ensure that you have Node.js and npm installed on your machine.
 
-### Prerequisites
-- **Node.js:** Make sure Node.js is installed. You can download it from [here](https://nodejs.org/).
+## 📱 Social Media Logo with Blue Theme
+- Added social media logos in the footer for quick access.
 
-## Steps
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Microsoft-Learn-Students-Club/MLSC-website.git
-    ```
+- Provides visitors with easy navigation to official MLSC community handles.
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd MLSC-website
-    ```
+- Improves outreach and community engagement.
 
-3. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
+- Grabs attention of user.
 
-4. **Run the application:**
-    ```bash
-    npm run dev
-    ```
-   This command will start the development server and open the app in your default web browser.
 
-5. **Access the App:**
-   Open your web browser and go to [http://localhost:5173](http://localhost:5173). You should see the MLSC VCET Website in React + Vite.js app running locally.
+## 🎉 Upcoming Events Section on Works Page
 
-6. **Explore the App:**
-   You can now explore the different sections of the MLSC VCET Website, such as Home, Works, Team, Leaderboard and Contact Us.
+- Introduced a dedicated “Upcoming Events” section isnide Works Page.
 
-7. **Stop the Development Server:**
-   To stop the development server, press `Ctrl + C` in the terminal where the server is running.
+- Allows visitors to stay updated with the latest MLSC events.
 
-## Additional Notes
-- If you encounter any issues with dependencies, ensure that Node.js and npm are properly installed, and try running `npm install` again.
-- Make sure the required npm packages are listed in the `package.json` file.
-- For deployment or production builds, you may need to refer to the specific deployment instructions or build scripts provided in the project.
+- Built with scalability in mind so new events can be added easily.
 
-## Contribution Guidelines
 
-We welcome contributions to enhance the MLSC VCET website. Your input is valuable, and following these guidelines ensures a smooth collaboration.
+## 📢 Notices Page with API Integration
 
-### Getting Started
+- Created a completely new Notices page.
 
-1. **Fork & Clone:** Begin by forking the repository and cloning it to your local machine.
-    ```bash
-    git clone https://github.com/your-username/MLSC-website.git
-    cd MLSC-website
-    ```
+- Built an API endpoint to serve notices dynamically.
 
-2. **Environment Setup:** Set up your development environment and install necessary dependencies.
-    ```bash
-    npm install
-    ```
+- Fetched and rendered notices on the frontend for real-time updates.
 
-3. **Branching:** Create a new branch for your feature or bug fix.
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
+- Easy to track updates at Anytime and Anywhere.
 
-### Code Style
+- Purpose: Provides a centralized place for all important announcements.
 
-- Follow consistent coding styles and conventions.
-- Ensure meaningful variable and function names.
-- Maintain proper indentation.
 
-### Commit Messages
+## 🌐 Links
+- Original Repository: [MLSC-WEBSITE](https://github.com/Microsoft-Learn-Students-Club/MLSC-website)
 
-- Write clear and concise commit messages.
-- Use present tense and imperative mood (e.g., "Add feature" instead of "Added feature").
+- My Fork (with improvements): [MLSC-WEBSITE-ROHIT](https://github.com/rohit-khaire/MLSC-website/tree/feature-upcoming-events)
 
-### Reporting Issues
+## ✅ Summary
 
-- If you encounter any issues or bugs, please report them on the GitHub Issues page. Provide a detailed description, steps to reproduce, and relevant information.
+These improvements were focused on:
 
-### Testing
+- Enhancing usability and user engagement.
 
-- Before submitting a pull request, ensure thorough testing of your changes. Verify that the existing functionality remains intact.
+- Making the website more informative and community-driven.
 
-### Pull Requests
+- Preparing a foundation for future contributors to easily extend content.
 
-- **Create Pull Request:** Develop a pull request against the main branch of the original repository.
-- **Description:** Clearly describe the changes and the motivation behind them.
-- **Reference Issues:** If applicable, reference any related issues in your pull request.
+## 👉 With these changes, the MLSC website becomes more lively, informative, and student-friendly!
 
-### Questions
 
-- If you have any questions, feel free to reach out to the maintainers or the community for assistance.
-
-Thank you for contributing! 🌟
-
-## Maintainers
-
-The MLSC VCET Website is actively maintained and developed by the following contributors:
-
-- Mukesh Billa -> GitHub: [bmukesh23](https://github.com/bmukesh23)
-- Adarsh Gupta -> GitHub: [Adarsh7825](https://github.com/Adarsh7825)
-
-Feel free to contact the maintainers for support, bug reports, or contributions to the project. We appreciate your interest and collaboration!
-
+## 👀 Demo Video Link: [Demo Video Link - MLSC WEB](https://drive.google.com/file/d/1TjHo5nb2a__NhOBoFsgB0iqVG53vOekQ/view?usp=sharing)
