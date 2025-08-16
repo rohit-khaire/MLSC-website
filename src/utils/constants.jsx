@@ -4,6 +4,7 @@ import Home from "../pages/Home";
 import Projects from "../pages/Projects";
 import Team from "../pages/Team";
 import Works from "../pages/Works";
+import Notices from "../pages/Notices";
 
 export const routes = [
     {
@@ -30,5 +31,9 @@ export const routes = [
     {
         path: '/Projects',
         element: <Projects/>,
+    },
+    {
+        path: "notices", 
+        element: <Notices />
     },
 ];
